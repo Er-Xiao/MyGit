@@ -1,3 +1,4 @@
 # 忽略 merge 忽略文件
 .gitattributes
 a.js
+src/c.js
