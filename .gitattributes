@@ -1,3 +1,4 @@
 /src/b.js 	merge=ours
 a.js 		merge=ours
 .gitattributes 	merge=ours
+config.xml  merge=ours
